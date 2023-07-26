@@ -4,9 +4,9 @@
 
 
 <div style="width: 100%; display: flex;flex-direction: column ;justify-content: space-between; margin: 20px 20px 0px 20px; align-items: left">
-<img alt="SumaryCard" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Appel" style="margin: 10px 0px">
-<img alt="MostUsedLanguage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Appel" style="height: 200px; width: 300px; margin: 10px 0px">
-<img alt="GithubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pedro-Appel" style="height: 200px; width: 300px; margin: 10px 0px">
+<img alt="SumaryCard" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Appel">
+<img alt="MostUsedLanguage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Appel" s">
+<img alt="GithubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pedro-Appel" ">
 </div>
 
 
