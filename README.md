@@ -1,5 +1,17 @@
 <img alt="banner" src="./imgs/banner_foto.png" style="height: 100px; width: 900px">
 
+
+
+
+<div style="width: 80%; display: flex;flex-direction: column ;justify-content: space-between; margin: 20px 20px 0px 20px; align-items: left">
+<img alt="SumaryCard" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Appel" style="margin: 10px 0px">
+<img alt="MostUsedLanguage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Appel" style="height: 200px; width: 300px; margin: 10px 0px">
+<img alt="GithubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pedro-Appel" style="height: 200px; width: 300px; margin: 10px 0px">
+</div>
+
+
+
+
 #### Young and amused with technology, always learning more and willing to evolve into a better version of me. Love to learn new languages and technologies. Graduated in Computer Science, Quantum inthusiastic and passionated with good and clean codes. Always seeking to work with difficulties so I can be one step ahead to being a inspiring professional. I enjoy sharing experiences with my colleagues, teaching and also learning from them.
 
 ## Some of my experience:
@@ -51,13 +63,3 @@ Worked most of my time in the bank industry in diverse areas such as:
 
 ### I would love to collaborate on any project related to security/cryptography
 📫 If you have any comments on my work, need any help, want to collaborate reach me on my email: appel.pedro@hotmail.com
-
-
-
-<div style="width: 80%; display: flex;flex-direction: column ;justify-content: space-between; margin: 20px 20px 0px 20px; align-items: left">
-<img alt="SumaryCard" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Appel" style="margin: 10px 0px">
-<img alt="MostUsedLanguage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Appel" style="height: 200px; width: 300px; margin: 10px 0px">
-<img alt="GithubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pedro-Appel" style="height: 200px; width: 300px; margin: 10px 0px">
-</div>
-
-
