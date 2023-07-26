@@ -54,9 +54,9 @@ Worked most of my time in the bank industry in diverse areas such as:
 
 
 
-<div style="display: flex; justify-content: center; "></div>
+<div style="width: 80%; display: flex;flex-direction: column ;justify-content: space-between; margin: 20px 20px 0px 20px">
 <img alt="SumaryCard" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Appel">
-<div style="display: flex; justify-content: space-between; margin: 20px 20px 0px 20px">
+
 <img alt="GithubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pedro-Appel" style="height: 200px; width: 300px; ">
 <img alt="MostUsedLanguage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Appel" style="height: 200px; width: 300px">
 </div>
