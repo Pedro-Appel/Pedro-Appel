@@ -1,4 +1,4 @@
-<img alt="banner" src="./imgs/banner_foto.png" style="height: 100px; width: 900px">
+<img alt="banner" src="./imgs/banner_foto.png" style="height: 200px; width: 100%">
 
 <picture>
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Appel&show_icons=true&theme=dark" />
@@ -34,7 +34,6 @@ Worked most of my time in the bank industry in diverse areas such as:
 #### Also worked in some web pages as a freelancer using TypeScript in the NestJS framework
 
 ## Main Skills:
-
 
 -  <img alt="Java" src="">
 -  <img alt="SpringBoot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
