@@ -4,10 +4,12 @@
 
 
 <div style="width: 100%; display: flex;flex-direction: column ;justify-content: space-between; margin: 20px 20px 0px 20px; align-items: left">
-<img alt="SumaryCard" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Appel">
-<img alt="MostUsedLanguage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Appel" s">
-<img alt="GithubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pedro-Appel" ">
+<img alt="SumaryCard" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Appel" height=200 align="center">
+<img alt="MostUsedLanguage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Appel" height=200 align="center"">
+<img alt="GithubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pedro-Appel" height=200 align="center">
 </div>
+
+
 
 
 
