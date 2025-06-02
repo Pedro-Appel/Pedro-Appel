@@ -1,4 +1,4 @@
-<img alt="banner" src="./imgs/banner_foto.png" style="height: 200px; width: 100%">
+<img alt="banner" src="./imgs/banner_foto.jpg" style="height: 300px; width: 100%">
 
 <picture>
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Appel&show_icons=true&theme=dark" />
