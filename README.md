@@ -1,5 +1,3 @@
-<img alt="banner" src="./imgs/banner_foto.jpg" style="height: 300px; width: 100%">
-
 <div align="center">
 <picture>
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Appel&show_icons=true&theme=dark" />
