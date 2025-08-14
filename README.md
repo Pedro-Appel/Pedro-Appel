@@ -1,37 +1,48 @@
-<div align="center">
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Appel&show_icons=true&theme=dark" />
-</picture>
+# Hi, I'm Appel! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=500&width=435&lines=Good+enginneers+are+built+with+time;Wonderful+enginners+are+built+with+passion)](https://git.io/typing-svg)
 
-<picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Appel&layout=compact&theme=dark" />
-</picture>
-<br>
-<br>
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<br>
-<img alt="SpringBoot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
-<br>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<br>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> 
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">  
-<img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">  
-<img alt="CI/CD" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-<br>
-<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9">  
-<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000"> 	
-<br>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-<img alt="Azure" src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"> 
-<img alt="AWS" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white">
-<br>
-<img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<h3>Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/pedro-appel" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="PedroAppel" height="30" width="100" /></a>
-<a href="https://instagram.com/pedr_appel" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="PedroAppel" height="30" width="100" /></a>
-</div>
+I am a passionate CS graduate currently Tech Leader at the banking sector, 
+driven by a curiosity for technology and a love for innovation. 
+My journey involves learning new stuff every day and 
+sharing my insights with the community.
+
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Pedro-Appel&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently working at [PagoNxt](https://www.pagonxt.com/) Portugal.
+- 📝 I help organize the [JUG Lisbon](https://www.meetup.com/lisbon-jug/)
+- 🤯 I'm a open source enthusiastic
+- ❤️ I love the linux stack
+
+## Tech Stack
+### My Languages
+[![](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
+### My Databases
+[![Databases](https://skillicons.dev/icons?i=mongo,mysql,postgres,redis)](https://skillicons.dev)
+### My Cloud environments
+[![Cloud environment](https://skillicons.dev/icons?i=redhat,azure,aws)](https://skillicons.dev)
+### My tools
+[![Tools](https://skillicons.dev/icons?i=git,jenkins,kafka,kubernetes,maven,gradle,grafana,postman,prometheus,terraform)](https://skillicons.dev)
+
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning how to be a better leader
+- Exploring new trending on the arch and design of software 
+- Open source software's to contribute
+- Styling linux interfaces
+- Building quarkus cloud native apps
+
+## 🏆 Achievements
+
+- 🎉 Fist place datascience ITAU Hackthon - 2022
+- 🎉 Fist place Study platform innovation Aubay internal Hackthon - 2024 
+
+## 📬 Get in Touch
+
+- Follow me on [X](https://x.com/appel_p)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/pedro-appel/)
+
+Thanks for stopping by! 
+Feel free to connect with me, I'd love to exchange some knowledge 🤤
