@@ -1,4 +1,4 @@
-# Hi, I'm Appel! 👋
+# Welcome!!, I'm Appel! 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=500&width=435&lines=Good+enginneers+are+built+with+time;Wonderful+enginners+are+built+with+passion)](https://git.io/typing-svg)
 
 **_I am a passionate CS graduate currently Tech Leader at the banking sector, 
@@ -45,4 +45,5 @@ sharing my insights with the community._**
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/pedro-appel/)
 
 Thanks for stopping by! 
-Feel free to connect with me, I'd love to exchange some knowledge 🤤
+
+### _Feel free to connect with me, I'd love to exchange some knowledge 🤤_
