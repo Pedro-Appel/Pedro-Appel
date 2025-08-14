@@ -6,7 +6,6 @@ driven by a curiosity for technology and a love for innovation.
 My journey involves learning new stuff every day and 
 sharing my insights with the community._
 ---
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Pedro-Appel&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -47,3 +46,4 @@ sharing my insights with the community._
 Thanks for stopping by! 
 
 ### _Feel free to connect with me, I'd love to exchange some knowledge 🤤_
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Pedro-Appel&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
