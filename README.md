@@ -1,11 +1,11 @@
 # Hi, I'm Appel! 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=500&width=435&lines=Good+enginneers+are+built+with+time;Wonderful+enginners+are+built+with+passion)](https://git.io/typing-svg)
 
-I am a passionate CS graduate currently Tech Leader at the banking sector, 
+**_I am a passionate CS graduate currently Tech Leader at the banking sector, 
 driven by a curiosity for technology and a love for innovation. 
 My journey involves learning new stuff every day and 
-sharing my insights with the community.
-
+sharing my insights with the community._**
+---
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Pedro-Appel&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
