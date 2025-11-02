@@ -12,13 +12,13 @@ _I am a passionate CS graduate currently Tech Leader at the banking sector, driv
 
 ## Tech Stack
 ### My Languages
-[![](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,bash,python)](https://skillicons.dev)
 ### My Databases
 [![Databases](https://skillicons.dev/icons?i=mongo,mysql,postgres,redis)](https://skillicons.dev)
 ### My Cloud environments
-[![Cloud environment](https://skillicons.dev/icons?i=redhat,azure,aws)](https://skillicons.dev)
+[![Cloud environment](https://skillicons.dev/icons?i=openshift,azure,aws)](https://skillicons.dev)
 ### My tools
-[![Tools](https://skillicons.dev/icons?i=git,jenkins,kafka,kubernetes,maven,gradle,grafana,postman,prometheus,terraform)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,git,jenkins,kafka,kubernetes,maven,gradle,grafana,postman,prometheus,terraform,linux)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
