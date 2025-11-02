@@ -31,8 +31,8 @@ _I am a passionate CS graduate currently Tech Leader at the banking sector, driv
 
 ## 🏆 Achievements
 
-- 🎉 Fist place datascience ITAU Hackthon - 2022
-- 🎉 Fist place Study platform innovation Aubay internal Hackthon - 2024 
+- 🎉 Fist place datascience ITAU Hackathon - 2022
+- 🎉 Fist place Study platform innovation Aubay internal Hackathon - 2024 
 
 ## 📬 Get in Touch
 
