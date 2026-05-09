@@ -5,8 +5,8 @@ _I am a passionate CS graduate currently Tech Leader at the banking sector, driv
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working at [PagoNxt](https://www.pagonxt.com/) Portugal.
-- 📝 I help organize the [JUG Lisbon](https://www.meetup.com/lisbon-jug/)
+- 🔭 I'm currently working at [Payment Solutions]([https://www.pagonxt.com/](https://www.santander.com/es/sobre-nosotros/nuestro-modelo/payment-solutions)) Portugal.
+- 📝 I organize the [JUG Lisbon](https://www.meetup.com/lisbon-jug/)
 - 🤯 I'm a open source enthusiastic
 - ❤️ I love the linux stack
 
